@@ -1,12 +1,11 @@
 # GHOST_HACKING
-GET PERSONAL INFO USING PHONE NUMBER OR USERNAME 
 
 
 
 
 
 
-COMMAND 
+# COMMAND 
 
 
 
@@ -19,11 +18,14 @@ COMMAND
 >     pkg install python3
 
 
- >    git clone https://github.com/joeljamestech2/GHOST_HACKING.git
+ >      git clone
+https://github.com/joeljamestech2/GHOST_HACKING.git
 
 >      cd GhostTrack
 
 >      pip3 install -r requirements.txt
 
 
->python3 joelXtec.py
+
+
+>      python3 GhostTR.py
